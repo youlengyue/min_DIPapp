@@ -13,7 +13,7 @@
 
 ![软件启动界面](preview.jpg)
 
-## my_DIP[使用说明](https://github.com/youlengyue/min_DIPapp/blod/main/for_redistribution_files_only/help.txt)
+## my_DIP[使用说明](https://github.com/youlengyue/min_DIPapp/blob/main/for_redistribution_files_only/help.txt)
 
 ## 如何运行程序
 
