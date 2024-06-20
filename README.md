@@ -17,7 +17,7 @@
 
 ## 如何运行程序
 
-- 如果电脑上有 MATLAB 环境，直接运行 `for_redistribution_files_only` 里的 `my_mine.exe` 文件即可运行程序。
-- 如果没有 MATLAB 环境，首先需要安装 `for_redistribution` 里的 `MyAppInstaller_mcr.exe`（建议安装到全新的文件夹里，因为卸载该软件时会把文件夹清空），然后再进行上面步骤即可。
+- 如果电脑上有 MATLAB 环境，直接运行 `for_redistribution_files_only` 里的 [min_DIP.exe](https://github.com/youlengyue/min_DIPapp/blob/main/for_redistribution_files_only/min_DIP.exe) 文件即可运行程序。
+- 如果没有 MATLAB 环境，首先需要安装 `for_redistribution` 里的 `MyAppInstaller_web.exe`（建议安装到全新的文件夹里，因为卸载该软件时会把文件夹清空），然后再进行上面步骤即可。
 
 更多操作详情，请参考[这个链接](http://t.csdnimg.cn/pMfYU)。
