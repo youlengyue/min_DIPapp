@@ -2,7 +2,7 @@
 
 这是一个用 MATLAB 设计并打包的DIP小程序，用于整合数字图像处理课程实验的内容。
 
-## [matlab代码](https://github.com/youlengyue/min_DIPapp/blob/main/app1.mlapp\)
+## [matlab代码](https://github.com/youlengyue/min_DIPapp/blob/main/app1.mlapp)
 
 
 ## 软件展示效果
@@ -13,7 +13,7 @@
 
 ![软件启动界面](preview.jpg)
 
-## my_DIP[使用说明](https://github.com/youlengyue/min_DIPapp/main/for_redistribution_files_only/help.txt)
+## my_DIP[使用说明](https://github.com/youlengyue/min_DIPapp/blod/main/for_redistribution_files_only/help.txt)
 
 ## 如何运行程序
 
